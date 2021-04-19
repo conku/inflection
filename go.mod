@@ -1,3 +1,3 @@
-module github.com/jinzhu/inflection
+module github.com/conku/inflection
 
 go 1.15
