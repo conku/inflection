@@ -2,7 +2,7 @@
 
 Inflection pluralizes and singularizes English nouns
 
-[![wercker status](https://app.wercker.com/status/f8c7432b097d1f4ce636879670be0930/s/master "wercker status")](https://app.wercker.com/project/byKey/f8c7432b097d1f4ce636879670be0930)
+[![wercker status](https://app.wercker.com/status/f8c7432b097d1f4ce636879670be0930/s/master 'wercker status')](https://app.wercker.com/project/byKey/f8c7432b097d1f4ce636879670be0930)
 
 ## Basic Usage
 
@@ -44,11 +44,11 @@ You can help to make the project better, check out [http://gorm.io/contribute.ht
 
 ## Author
 
-**jinzhu**
+**conku**
 
-* <http://github.com/jinzhu>
-* <wosmvp@gmail.com>
-* <http://twitter.com/zhangjinzhu>
+- <http://github.com/conku>
+- <wosmvp@gmail.com>
+- <http://twitter.com/zhangconku>
 
 ## License
 
